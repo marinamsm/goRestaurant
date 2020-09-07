@@ -10,7 +10,7 @@ Node.js and a package manager like npm or yarn.
 
 Run `npm install` or `yarn` to install all the dependencies.
 Run `npm start` or `yarn start` to run the frontent.
-Run `npm run server` or `yarn run server` to run the fake backend.
+Run `npm run server` or `yarn server` to run the fake backend.
 
 ## Running the tests
 
